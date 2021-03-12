@@ -17,7 +17,31 @@
 * <a href="https://git-scm.com/">Git</a>
 * <a href="https://www.npmjs.com/package/nodemon">Nodemon</a>
 
-## Project Run
+## Project Install
+
+* <p> Install NPM </p>
+```
+npm install
+```
+* <p> Install Validation </p>
+```
+npm i fastest-validator
+```
+* <p> Install DotEnv </p>
+```
+npm i dotenv
+```
+* <p> Install Mongoose </p>
+```
+npm i mongoose@5.11.15
+```
+* <p> Install Nodemon </p>
+```
+npm i -g nodemon
+```
+
+### Project Run
+
 ```
 npm start
 ```
