@@ -39,7 +39,10 @@ npm i mongoose@5.11.15
 ```
 npm i -g nodemon
 ```
-
+* <p>And Please Create file .env </p>
+```
+DB=mongodb://localhost:27017/crud-tours
+```
 ### Project Run
 
 ```
